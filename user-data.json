@@ -12,10 +12,26 @@
         {
             "name": "Protomol",
             "desc": "Protomol is the ultimate roadmap provider for beginners, offering a comprehensive and user-friendly platform designed to guide newbies through their journey.",
-            "url": "/"
+            "url": "/",
+            "data": "",
+            "tech": "NextJS"
         }
     ],
     "all_projects": [
+        {
+            "name": "Palmy",
+            "desc": "Palmy is an VS Code theme which a combination of gorgeous colors like.",
+            "url": "https://marketplace.visualstudio.com/items?itemName=AbubakerSiddique.palmy",
+            "date": "Oct 25, 2022",
+            "tech": "VS Code Theme"
+        },
+        {
+            "name": "Transal",
+            "desc": "An Baby form of Advanced Translating Software.",
+            "url": "https://github.com/Abubakersiddique761/Transal",
+            "date": "Oct 16, 2022",
+            "tech": "ElectronJS"
+        },
         {
             "name": "YouToX",
             "desc": "YouTube Video Downloader with different types of formats.",
@@ -35,20 +51,6 @@
             "desc": "Edit the Text File with Minimal Design.",
             "url": "https://github.com/Abubakersiddique761/TxtX",
             "date": "Jul 24, 2022",
-            "tech": "ElectronJS"
-        },
-        {
-            "name": "Palmy",
-            "desc": "Palmy is an VS Code theme which a combination of gorgeous colors like.",
-            "url": "https://marketplace.visualstudio.com/items?itemName=AbubakerSiddique.palmy",
-            "date": "Oct 25, 2022",
-            "tech": "VS Code Theme"
-        },
-        {
-            "name": "Transal",
-            "desc": "An Baby form of Advanced Translating Software.",
-            "url": "https://github.com/Abubakersiddique761/Transal",
-            "date": "Oct 16, 2022",
             "tech": "ElectronJS"
         }
     ]
