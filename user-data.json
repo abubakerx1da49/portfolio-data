@@ -8,6 +8,36 @@
     "hobbies": [
         "Projects Dev."
     ],
+    "social": [
+        {
+            "app": "E-Mail",
+            "url": "abubakersiddique761@gmail.com"
+        },
+        {
+            "app": "GitHub",
+            "url": "https://github.com/Abubakersiddique761"
+        },
+        {
+            "app": "Instagram",
+            "url": "https://www.instagram.com/abubaker_1937/"
+        },
+        {
+            "app": "LinkedIn",
+            "url": "https://www.linkedin.com/in/abubaker-siddique-2542531b1/"
+        },
+        {
+            "app": "Twitter",
+            "url": "https://twitter.com/SiDDiQ1937"
+        },
+        {
+            "app": "StackOverFlow",
+            "url": "https://stackoverflow.com/users/13813653/abubaker-siddique"
+        },
+        {
+            "app": "HackerRank",
+            "url": "https://www.hackerrank.com/Abubakersiddiqu2"
+        }
+    ],
     "projects": [
         {
             "name": "Protomol",
