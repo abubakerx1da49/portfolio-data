@@ -1,0 +1,22 @@
+{
+    "all_todos": [
+        {
+            "name": "In work",
+            "todos": [
+                {
+                    "task": "Launch Nanobut",
+                    "status": 0
+                }
+            ]
+        },
+        {
+            "name": "Tech Goals",
+            "todos": [
+                {
+                    "task": "Ship an app in Playstore",
+                    "status": 0
+                }
+            ]
+        }
+    ]
+}
