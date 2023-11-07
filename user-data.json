@@ -5,5 +5,7 @@
         "Blogging",
         "Ebook Writing"
     ],
-    "projects": []
+    "projects": [
+        { "name": "protomol", "desc": "Protomol is the ultimate roadmap provider for beginners, offering a comprehensive and user-friendly platform designed to guide newbies through their journey." }
+    ]
 }
