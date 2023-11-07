@@ -11,15 +11,18 @@
     "social": [
         {
             "app": "E-Mail",
-            "url": "mailto:abubakersiddique761@gmail.com"
+            "url": "mailto:abubakersiddique761@gmail.com",
+            "as": "abubakersiddique761@gmail.com"
         },
         {
             "app": "GitHub",
-            "url": "https://github.com/Abubakersiddique761"
+            "url": "https://github.com/Abubakersiddique761",
+            "as": "@Abubakersiddique761"
         },
         {
             "app": "Instagram",
-            "url": "https://www.instagram.com/abubaker_1937/"
+            "url": "https://www.instagram.com/abubaker_1937/",
+            "as": "@abubaker_1937"
         },
         {
             "app": "LinkedIn",
@@ -27,7 +30,8 @@
         },
         {
             "app": "Twitter",
-            "url": "https://twitter.com/SiDDiQ1937"
+            "url": "https://twitter.com/SiDDiQ1937",
+            "as": "@SiDDiQ1937"
         },
         {
             "app": "StackOverFlow",
