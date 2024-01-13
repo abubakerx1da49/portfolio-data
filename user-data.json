@@ -43,10 +43,10 @@
     ],
     "projects": [
         {
-            "name": "Protomol",
-            "desc": "Protomol is the ultimate roadmap provider for beginners, offering a comprehensive and user-friendly platform designed to guide newbies through their journey.",
-            "url": "/",
-            "data": "",
+            "name": "AI Idea Brainstrom",
+            "desc": "Generate different types of news ideas to create your next project.",
+            "url": "https://ai-idea-brainstorm-abubakersiddique761.vercel.app/",
+            "data": "Jan 1, 2023",
             "tech": "NextJS"
         }
     ],
