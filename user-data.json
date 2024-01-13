@@ -46,7 +46,14 @@
             "name": "AI Idea Brainstrom",
             "desc": "Generate different types of news ideas to create your next project.",
             "url": "https://ai-idea-brainstorm-abubakersiddique761.vercel.app/",
-            "data": "Jan 1, 2024",
+            "data": "Jan 13, 2024",
+            "tech": "NextJS"
+        },
+        {
+            "name": "News Aggregator",
+            "desc": "Binge News from one of the trustable sources in one place.",
+            "url": "https://news-aggregator-abubakersiddique761.vercel.app/",
+            "data": "Jan 14, 2024",
             "tech": "NextJS"
         }
     ],
