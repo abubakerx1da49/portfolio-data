@@ -55,6 +55,13 @@
             "url": "https://news-aggregator-abubakersiddique761.vercel.app/",
             "data": "Jan 14, 2024",
             "tech": "NextJS"
+        },
+        {
+            "name": "Space Daily",
+            "desc": "Know daily one update from Space, and It's from Nasa.",
+            "url": "https://spacedaily-abubakersiddique761.vercel.app/",
+            "data": "Jan 15, 2024",
+            "tech": "NextJS"
         }
     ],
     "all_projects": [
