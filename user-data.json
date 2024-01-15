@@ -62,6 +62,13 @@
             "url": "https://spacedaily-abubakersiddique761.vercel.app/",
             "data": "Jan 15, 2024",
             "tech": "NextJS"
+        },
+        {
+            "name": "Productivity X",
+            "desc": "One place to manage all of your works.",
+            "url": "https://productivity-x-abubakersiddique761.vercel.app/",
+            "data": "Jan 16, 2024",
+            "tech": "NextJS"
         }
     ],
     "all_projects": [
