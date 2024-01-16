@@ -69,6 +69,13 @@
             "url": "https://productivity-x-abubakersiddique761.vercel.app/",
             "date": "Jan 16, 2024",
             "tech": "NextJS"
+        },
+        {
+            "name": "Complex Notes",
+            "desc": "Create more minimalistic and rich edited notes.",
+            "url": "https://complex-notes-abubakersiddique761.vercel.app/",
+            "date": "Jan 17, 2024",
+            "tech": "NextJS"
         }
     ],
     "all_projects": [
