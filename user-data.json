@@ -46,28 +46,28 @@
             "name": "AI Idea Brainstrom",
             "desc": "Generate different types of news ideas to create your next project.",
             "url": "https://ai-idea-brainstorm-abubakersiddique761.vercel.app/",
-            "data": "Jan 13, 2024",
+            "date": "Jan 13, 2024",
             "tech": "NextJS"
         },
         {
             "name": "News Aggregator",
             "desc": "Binge News from one of the trustable sources in one place.",
             "url": "https://news-aggregator-abubakersiddique761.vercel.app/",
-            "data": "Jan 14, 2024",
+            "date": "Jan 14, 2024",
             "tech": "NextJS"
         },
         {
             "name": "Space Daily",
             "desc": "Know daily one update from Space, and It's from Nasa.",
             "url": "https://spacedaily-abubakersiddique761.vercel.app/",
-            "data": "Jan 15, 2024",
+            "date": "Jan 15, 2024",
             "tech": "NextJS"
         },
         {
             "name": "Productivity X",
             "desc": "One place to manage all of your works.",
             "url": "https://productivity-x-abubakersiddique761.vercel.app/",
-            "data": "Jan 16, 2024",
+            "date": "Jan 16, 2024",
             "tech": "NextJS"
         }
     ],
