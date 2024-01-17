@@ -43,24 +43,10 @@
     ],
     "projects": [
         {
-            "name": "AI Idea Brainstrom",
-            "desc": "Generate different types of news ideas to create your next project.",
-            "url": "https://ai-idea-brainstorm-abubakersiddique761.vercel.app/",
-            "date": "Jan 13, 2024",
-            "tech": "NextJS"
-        },
-        {
-            "name": "News Aggregator",
-            "desc": "Binge News from one of the trustable sources in one place.",
-            "url": "https://news-aggregator-abubakersiddique761.vercel.app/",
-            "date": "Jan 14, 2024",
-            "tech": "NextJS"
-        },
-        {
-            "name": "Space Daily",
-            "desc": "Know daily one update from Space, and It's from Nasa.",
-            "url": "https://spacedaily-abubakersiddique761.vercel.app/",
-            "date": "Jan 15, 2024",
+            "name": "Complex Notes",
+            "desc": "Create more minimalistic and rich edited notes.",
+            "url": "https://complex-notes-abubakersiddique761.vercel.app/",
+            "date": "Jan 17, 2024",
             "tech": "NextJS"
         },
         {
@@ -71,10 +57,24 @@
             "tech": "NextJS"
         },
         {
-            "name": "Complex Notes",
-            "desc": "Create more minimalistic and rich edited notes.",
-            "url": "https://complex-notes-abubakersiddique761.vercel.app/",
-            "date": "Jan 17, 2024",
+            "name": "Space Daily",
+            "desc": "Know daily one update from Space, and It's from Nasa.",
+            "url": "https://spacedaily-abubakersiddique761.vercel.app/",
+            "date": "Jan 15, 2024",
+            "tech": "NextJS"
+        },
+        {
+            "name": "News Aggregator",
+            "desc": "Binge News from one of the trustable sources in one place.",
+            "url": "https://news-aggregator-abubakersiddique761.vercel.app/",
+            "date": "Jan 14, 2024",
+            "tech": "NextJS"
+        },
+        {
+            "name": "AI Idea Brainstrom",
+            "desc": "Generate different types of news ideas to create your next project.",
+            "url": "https://ai-idea-brainstorm-abubakersiddique761.vercel.app/",
+            "date": "Jan 13, 2024",
             "tech": "NextJS"
         }
     ],
