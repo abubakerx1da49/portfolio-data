@@ -43,6 +43,13 @@
     ],
     "projects": [
         {
+            "name": "Structured Bookmarks",
+            "desc": "Manage your bookmarks in an organized way.",
+            "url": "https://structured-bookmarks-abubakersiddique761.vercel.app/",
+            "date": "Jan 18, 2024",
+            "tech": "NextJS"
+        },
+        {
             "name": "Complex Notes",
             "desc": "Create more minimalistic and rich edited notes.",
             "url": "https://complex-notes-abubakersiddique761.vercel.app/",
