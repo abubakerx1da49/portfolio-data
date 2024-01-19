@@ -43,6 +43,13 @@
     ],
     "projects": [
         {
+            "name": "Habit Tracker",
+            "desc": "Track your habits or works in an minimalistic way.",
+            "url": "https://habit-tracker-abubakersiddique761.vercel.app/",
+            "date": "Jan 19, 2024",
+            "tech": "NextJS"
+        },
+        {
             "name": "Structured Bookmarks",
             "desc": "Manage your bookmarks in an organized way.",
             "url": "https://structured-bookmarks-abubakersiddique761.vercel.app/",
