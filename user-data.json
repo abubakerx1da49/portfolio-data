@@ -47,84 +47,96 @@
             "desc": "Track your habits or works in an minimalistic way.",
             "url": "https://habit-tracker-abubakersiddique761.vercel.app/",
             "date": "Jan 19, 2024",
-            "tech": "NextJS"
+            "tech": "NextJS",
+            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/habit-tracker.png"
         },
         {
             "name": "Structured Bookmarks",
             "desc": "Manage your bookmarks in an organized way.",
             "url": "https://structured-bookmarks-abubakersiddique761.vercel.app/",
             "date": "Jan 18, 2024",
-            "tech": "NextJS"
+            "tech": "NextJS",
+            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/structured-bookmarks.png"
         },
         {
             "name": "Complex Notes",
             "desc": "Create more minimalistic and rich edited notes.",
             "url": "https://complex-notes-abubakersiddique761.vercel.app/",
             "date": "Jan 17, 2024",
-            "tech": "NextJS"
+            "tech": "NextJS",
+            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/complex-notes.png"
         },
         {
             "name": "Productivity X",
             "desc": "One place to manage all of your works.",
             "url": "https://productivity-x-abubakersiddique761.vercel.app/",
             "date": "Jan 16, 2024",
-            "tech": "NextJS"
+            "tech": "NextJS",
+            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/productivity-x.png"
         },
         {
             "name": "Space Daily",
             "desc": "Know daily one update from Space, and It's from Nasa.",
             "url": "https://spacedaily-abubakersiddique761.vercel.app/",
             "date": "Jan 15, 2024",
-            "tech": "NextJS"
+            "tech": "NextJS",
+            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/space-daily.png"
         },
         {
             "name": "News Aggregator",
             "desc": "Binge News from one of the trustable sources in one place.",
             "url": "https://news-aggregator-abubakersiddique761.vercel.app/",
             "date": "Jan 14, 2024",
-            "tech": "NextJS"
+            "tech": "NextJS",
+            "img": ""
         },
         {
             "name": "AI Idea Brainstrom",
             "desc": "Generate different types of news ideas to create your next project.",
             "url": "https://ai-idea-brainstorm-abubakersiddique761.vercel.app/",
             "date": "Jan 13, 2024",
-            "tech": "NextJS"
+            "tech": "NextJS",
+            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/ai-idea-brainstorm.png"
         },
         {
             "name": "Palmy",
             "desc": "Palmy is an VS Code theme which a combination of gorgeous colors like.",
             "url": "https://marketplace.visualstudio.com/items?itemName=AbubakerSiddique.palmy",
             "date": "Oct 25, 2022",
-            "tech": "VS Code Theme"
+            "tech": "VS Code Theme",
+            "img": ""
         },
         {
             "name": "Transal",
             "desc": "An Baby form of Advanced Translating Software.",
             "url": "https://github.com/Abubakersiddique761/Transal",
             "date": "Oct 16, 2022",
-            "tech": "ElectronJS"
+            "tech": "ElectronJS",
+            "img": ""
         },
         {
             "name": "YouToX",
             "desc": "YouTube Video Downloader with different types of formats.",
             "url": "https://github.com/Abubakersiddique761/YouToX",
             "date": "Jul 24, 2022",
-            "tech": "ElectronJS"
+            "tech": "ElectronJS",
+            "img": ""
         },
         {
             "name": "GenerateX",
             "desc": "An App Designed to Generate Variety of QR Codes.",
             "url": "https://github.com/Abubakersiddique761/GenerateX",
             "date": "Jul 24, 2022",
-            "tech": "ElectronJS"
+            "tech": "ElectronJS",
+            "img": ""
         },
         {
             "name": "TxtX",
             "desc": "Edit the Text File with Minimal Design.",
             "url": "https://github.com/Abubakersiddique761/TxtX",
             "date": "Jul 24, 2022",
-            "tech": "ElectronJS"
+            "tech": "ElectronJS",
+            "img": ""
         }
     ]
 }
