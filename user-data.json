@@ -41,7 +41,7 @@
             "url": "https://www.hackerrank.com/Abubakersiddiqu2"
         }
     ],
-    "projects": [
+    "all_projects": [
         {
             "name": "Habit Tracker",
             "desc": "Track your habits or works in an minimalistic way.",
@@ -90,9 +90,7 @@
             "url": "https://ai-idea-brainstorm-abubakersiddique761.vercel.app/",
             "date": "Jan 13, 2024",
             "tech": "NextJS"
-        }
-    ],
-    "all_projects": [
+        },
         {
             "name": "Palmy",
             "desc": "Palmy is an VS Code theme which a combination of gorgeous colors like.",
