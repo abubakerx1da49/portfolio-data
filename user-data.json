@@ -114,7 +114,8 @@
             "date": "Oct 25, 2022",
             "tech": "VS Code Theme",
             "img": "https://github.com/Abubakersiddique761/palmy/blob/main/SS.png",
-            "isOpensource": true
+            "isOpensource": true,
+            "github": "https://github.com/Abubakersiddique761/palmy"
         },
         {
             "name": "Transal",
