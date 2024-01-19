@@ -48,7 +48,9 @@
             "url": "https://habit-tracker-abubakersiddique761.vercel.app/",
             "date": "Jan 19, 2024",
             "tech": "TypeScript,NextJS,NextUI",
-            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/habit-tracker.png"
+            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/habit-tracker.png",
+            "isOpensource": true,
+            "github": "https://github.com/Abubakersiddique761/habit-tracker"
         },
         {
             "name": "Structured Bookmarks",
@@ -56,7 +58,8 @@
             "url": "https://structured-bookmarks-abubakersiddique761.vercel.app/",
             "date": "Jan 18, 2024",
             "tech": "TypeScript,NextJS,NextUI",
-            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/structured-bookmarks.png"
+            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/structured-bookmarks.png",
+            "isOpensource": false
         },
         {
             "name": "Complex Notes",
@@ -64,7 +67,9 @@
             "url": "https://complex-notes-abubakersiddique761.vercel.app/",
             "date": "Jan 17, 2024",
             "tech": "TypeScript,NextJS,NextUI",
-            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/complex-notes.png"
+            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/complex-notes.png",
+            "isOpensource": true,
+            "github": "https://github.com/Abubakersiddique761/complex-notes"
         },
         {
             "name": "Productivity X",
@@ -72,7 +77,8 @@
             "url": "https://productivity-x-abubakersiddique761.vercel.app/",
             "date": "Jan 16, 2024",
             "tech": "TypeScript,NextJS,NextUI",
-            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/productivity-x.png"
+            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/productivity-x.png",
+            "isOpensource": false
         },
         {
             "name": "Space Daily",
@@ -80,7 +86,8 @@
             "url": "https://spacedaily-abubakersiddique761.vercel.app/",
             "date": "Jan 15, 2024",
             "tech": "TypeScript,NextJS,NextUI",
-            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/space-daily.png"
+            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/space-daily.png",
+            "isOpensource": false
         },
         {
             "name": "News Aggregator",
@@ -88,7 +95,8 @@
             "url": "https://news-aggregator-abubakersiddique761.vercel.app/",
             "date": "Jan 14, 2024",
             "tech": "TypeScript,NextJS,NextUI",
-            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/news-aggregator.png"
+            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/news-aggregator.png",
+            "isOpensource": false
         },
         {
             "name": "AI Idea Brainstrom",
@@ -96,7 +104,8 @@
             "url": "https://ai-idea-brainstorm-abubakersiddique761.vercel.app/",
             "date": "Jan 13, 2024",
             "tech": "TypeScript,NextJS,NextUI",
-            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/ai-idea-brainstorm.png"
+            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/ai-idea-brainstorm.png",
+            "isOpensource": false
         },
         {
             "name": "Palmy",
@@ -104,39 +113,44 @@
             "url": "https://marketplace.visualstudio.com/items?itemName=AbubakerSiddique.palmy",
             "date": "Oct 25, 2022",
             "tech": "VS Code Theme",
-            "img": ""
+            "img": "https://github.com/Abubakersiddique761/palmy/blob/main/SS.png",
+            "isOpensource": true
         },
         {
             "name": "Transal",
             "desc": "An Baby form of Advanced Translating Software.",
-            "url": "https://github.com/Abubakersiddique761/Transal",
             "date": "Oct 16, 2022",
-            "tech": "ElectronJS",
-            "img": ""
+            "tech": "ElectronJS,HTML,CSS,JS",
+            "img": "",
+            "isOpensource": true,
+            "github": "https://github.com/Abubakersiddique761/Transal"
         },
         {
             "name": "YouToX",
             "desc": "YouTube Video Downloader with different types of formats.",
-            "url": "https://github.com/Abubakersiddique761/YouToX",
             "date": "Jul 24, 2022",
-            "tech": "ElectronJS",
-            "img": ""
+            "tech": "ElectronJS,HTML,CSS,JS",
+            "img": "https://github.com/Abubakersiddique761/YouToX/blob/master/imgs/1.png",
+            "isOpensource": true,
+            "github": "https://github.com/Abubakersiddique761/YouToX"
         },
         {
             "name": "GenerateX",
             "desc": "An App Designed to Generate Variety of QR Codes.",
-            "url": "https://github.com/Abubakersiddique761/GenerateX",
             "date": "Jul 24, 2022",
-            "tech": "ElectronJS",
-            "img": ""
+            "tech": "ElectronJS,HTML,CSS,JS",
+            "img": "https://github.com/Abubakersiddique761/GenerateX/blob/master/imgs/3.png",
+            "isOpensource": true,
+            "github": "https://github.com/Abubakersiddique761/GenerateX"
         },
         {
             "name": "TxtX",
             "desc": "Edit the Text File with Minimal Design.",
-            "url": "https://github.com/Abubakersiddique761/TxtX",
             "date": "Jul 24, 2022",
-            "tech": "ElectronJS",
-            "img": ""
+            "tech": "ElectronJS,HTML,CSS,JS",
+            "img": "https://github.com/Abubakersiddique761/TxtX/blob/master/imgs/1.png",
+            "isOpensource": true,
+            "github": "https://github.com/Abubakersiddique761/TxtX"
         }
     ]
 }
