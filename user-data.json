@@ -43,6 +43,15 @@
     ],
     "all_projects": [
         {
+            "name": "Hacker News",
+            "desc": "Get latest information from most trusted sources.",
+            "url": "https://hackersnews-abubakersiddique761.vercel.app/",
+            "date": "Feb 24, 2024",
+            "tech": "TypeScript,NextJS,NextUI",
+            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/hackernews.png",
+            "isOpensource": false
+        },
+        {
             "name": "Habit Tracker",
             "desc": "Track your habits or works in an minimalistic way.",
             "url": "https://habit-tracker-abubakersiddique761.vercel.app/",
