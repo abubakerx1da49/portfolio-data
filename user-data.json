@@ -49,7 +49,8 @@
             "date": "Feb 24, 2024",
             "tech": "TypeScript,NextJS,NextUI",
             "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/hackersnews.png",
-            "isOpensource": false
+            "isOpensource": false,
+            "analytics": "https://umami-xi-nine.vercel.app/share/acMkPxjcgWfkr6tl/hackersnews-abubakersiddique761.vercel.app"
         },
         {
             "name": "Habit Tracker",
