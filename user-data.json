@@ -88,7 +88,8 @@
             "date": "Jan 16, 2024",
             "tech": "TypeScript,NextJS,NextUI",
             "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/productivity-x.png",
-            "isOpensource": false
+            "isOpensource": false,
+            "analytics": "https://umami-xi-nine.vercel.app/share/1vgc7eFKbRgLBppc/productivity-x-abubakersiddique761.vercel.app"
         },
         {
             "name": "Space Daily",
