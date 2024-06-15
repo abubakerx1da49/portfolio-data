@@ -69,7 +69,8 @@
             "date": "Jan 18, 2024",
             "tech": "TypeScript,NextJS,NextUI",
             "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/structured-bookmarks.png",
-            "isOpensource": false
+            "isOpensource": false,
+            "analytics": "https://umami-xi-nine.vercel.app/share/g5CbzSRkcuZx9Nkh/structured-bookmarks-abubakersiddique761.vercel.app"
         },
         {
             "name": "Complex Notes",
