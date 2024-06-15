@@ -99,7 +99,8 @@
             "date": "Jan 15, 2024",
             "tech": "TypeScript,NextJS,NextUI",
             "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/space-daily.png",
-            "isOpensource": false
+            "isOpensource": false,
+            "analytics": "https://umami-xi-nine.vercel.app/share/NoOOtiSSRMXkZmHY/spacedaily-abubakersiddique761.vercel.app"
         },
         {
             "name": "News Aggregator",
@@ -108,7 +109,8 @@
             "date": "Jan 14, 2024",
             "tech": "TypeScript,NextJS,NextUI",
             "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/news-aggregator.png",
-            "isOpensource": false
+            "isOpensource": false,
+            "analytics": "https://umami-xi-nine.vercel.app/share/PCGbu0iOgSbUFYej/news-aggregator-abubakersiddique761.vercel.app"
         },
         {
             "name": "AI Idea Brainstrom",
@@ -117,7 +119,8 @@
             "date": "Jan 13, 2024",
             "tech": "TypeScript,NextJS,NextUI",
             "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/ai-idea-brainstorm.png",
-            "isOpensource": false
+            "isOpensource": false,
+            "analytics": "https://umami-xi-nine.vercel.app/share/x1XAEKtzZq7EaYjU/ai-idea-brainstorm-abubakersiddique761.vercel.app"
         },
         {
             "name": "Palmy",
