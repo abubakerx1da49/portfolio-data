@@ -3,17 +3,18 @@
         "name": "Abubaker Siddique H",
         "aka": "0x1da49",
         "tagline": "Programming Tinkerer 🛠️, and Knowledge Wanderer 🌋.",
-        "desc": "I'm currently exploring more tech projects. I also have interests in entrepreneurship and selling.",
+        "desc": "I'm majorly working on myself, and I used to do everything that I think it's good for me.",
         "img": "https://avatars.githubusercontent.com/u/91818906?v=4"
     },
     "skills": [
-        "🤖 Programming",
-        "🕸️ Full Stack Dev.",
-        "💵 Blogging",
-        "✒️ Ebook Writing"
+        "📟 Programming",
+        "🔧 Tinkering",
+        "💡 Products Creations",
+        "🤍 Working"
     ],
     "hobbies": [
-        "Projects Dev."
+        "🚀 Projects Dev.",
+        "📈 Entrepreneurship"
     ],
     "social": [
         {
@@ -21,23 +22,23 @@
             "url": "mailto:abubakersiddiquex1da49@gmail.com"
         },
         {
+            "app": "🛡️ Proton Mail",
+            "url": "mailto:0x1da49@proton.me"
+        },
+        {
             "app": "🌉 GitHub",
             "url": "https://github.com/abubakerx1da49",
-            "as": "@Abubakersiddique761"
+            "as": "@abubakerx1da49"
         },
         {
             "app": "📸 Instagram",
             "url": "https://www.instagram.com/abu_0x1da49/",
-            "as": "@abubaker_1937"
-        },
-        {
-            "app": "👷 LinkedIn",
-            "url": "https://www.linkedin.com/in/abubaker-siddique-2542531b1/"
+            "as": "@abu_0x1da49"
         },
         {
             "app": "😵 Twitter",
             "url": "https://x.com/abu_0x1da49",
-            "as": "@abubaker1937"
+            "as": "@abu_0x1da49"
         }
     ],
     "all_projects": [
