@@ -49,7 +49,7 @@
             "date": "Feb 24, 2024",
             "tech": "TypeScript,NextJS,NextUI",
             "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/hackersnews.png",
-            "isOpensource": false,
+            "isOpensource": false
         },
         {
             "name": "Habit Tracker",
@@ -68,7 +68,7 @@
             "date": "Jan 18, 2024",
             "tech": "TypeScript,NextJS,NextUI",
             "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/structured-bookmarks.png",
-            "isOpensource": false,
+            "isOpensource": false
         },
         {
             "name": "Complex Notes",
@@ -87,7 +87,7 @@
             "date": "Jan 16, 2024",
             "tech": "TypeScript,NextJS,NextUI",
             "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/productivity-x.png",
-            "isOpensource": false,
+            "isOpensource": false
         },
         {
             "name": "Space Daily",
@@ -96,7 +96,7 @@
             "date": "Jan 15, 2024",
             "tech": "TypeScript,NextJS,NextUI",
             "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/space-daily.png",
-            "isOpensource": false,
+            "isOpensource": false
         },
         {
             "name": "News Aggregator",
@@ -105,7 +105,7 @@
             "date": "Jan 14, 2024",
             "tech": "TypeScript,NextJS,NextUI",
             "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/news-aggregator.png",
-            "isOpensource": false,
+            "isOpensource": false
         },
         {
             "name": "AI Idea Brainstrom",
@@ -114,7 +114,7 @@
             "date": "Jan 13, 2024",
             "tech": "TypeScript,NextJS,NextUI",
             "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/ai-idea-brainstorm.png",
-            "isOpensource": false,
+            "isOpensource": false
         },
         {
             "name": "Palmy",
