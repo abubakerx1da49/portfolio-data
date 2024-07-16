@@ -1,166 +1,166 @@
 {
-    "profile": {
-        "name": "Abubaker Siddique H",
-        "aka": "0x1da49",
-        "tagline": "Programming Tinkerer 🛠️, and Knowledge Wanderer 🌋.",
-        "desc": "I'm majorly working on myself, and I used to do everything that I think it's good for me.",
-        "img": "https://avatars.githubusercontent.com/u/91818906?v=4"
+  "profile": {
+    "name": "Abubaker Siddique H",
+    "aka": "0x1da49",
+    "tagline": "Programming Tinkerer 🛠️, and Knowledge Wanderer 🌋.",
+    "desc": "I'm majorly working on myself, and I used to do everything that I think it's good for me.",
+    "img": "https://avatars.githubusercontent.com/u/91818906?v=4"
+  },
+  "skills": [
+    "📟 Programming",
+    "🔧 Tinkering",
+    "💡 Products Creations",
+    "🤍 Working"
+  ],
+  "hobbies": [
+    "🚀 Projects Dev.",
+    "📈 Entrepreneurship"
+  ],
+  "social": [
+    {
+      "app": "💌 E-Mail",
+      "url": "mailto:abubakersiddiquex1da49@gmail.com"
     },
-    "skills": [
-        "📟 Programming",
-        "🔧 Tinkering",
-        "💡 Products Creations",
-        "🤍 Working"
-    ],
-    "hobbies": [
-        "🚀 Projects Dev.",
-        "📈 Entrepreneurship"
-    ],
-    "social": [
-        {
-            "app": "💌 E-Mail",
-            "url": "mailto:abubakersiddiquex1da49@gmail.com"
-        },
-        {
-            "app": "🛡️ Proton Mail",
-            "url": "mailto:0x1da49@proton.me"
-        },
-        {
-            "app": "🌉 GitHub",
-            "url": "https://github.com/abubakerx1da49",
-            "as": "@abubakerx1da49"
-        },
-        {
-            "app": "📸 Instagram",
-            "url": "https://www.instagram.com/abu_0x1da49/",
-            "as": "@abu_0x1da49"
-        },
-        {
-            "app": "😵 Twitter",
-            "url": "https://x.com/abu_0x1da49",
-            "as": "@abu_0x1da49"
-        }
-    ],
-    "all_projects": [
-        {
-            "name": "Hacker News",
-            "desc": "Get latest information from most trusted sources.",
-            "url": "https://hackersnews-abubakersiddique761.vercel.app/",
-            "date": "Feb 24, 2024",
-            "tech": "TypeScript,NextJS,NextUI",
-            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/hackersnews.png",
-            "isOpensource": false
-        },
-        {
-            "name": "Habit Tracker",
-            "desc": "Track your habits or works in an minimalistic way.",
-            "url": "https://habit-tracker-abubakersiddique761.vercel.app/",
-            "date": "Jan 19, 2024",
-            "tech": "TypeScript,NextJS,NextUI",
-            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/habit-tracker.png",
-            "isOpensource": true,
-            "github": "https://github.com/Abubakersiddique761/habit-tracker"
-        },
-        {
-            "name": "Structured Bookmarks",
-            "desc": "Manage your bookmarks in an organized way.",
-            "url": "https://structured-bookmarks-abubakersiddique761.vercel.app/",
-            "date": "Jan 18, 2024",
-            "tech": "TypeScript,NextJS,NextUI",
-            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/structured-bookmarks.png",
-            "isOpensource": false
-        },
-        {
-            "name": "Complex Notes",
-            "desc": "Create more minimalistic and rich edited notes.",
-            "url": "https://complex-notes-abubakersiddique761.vercel.app/",
-            "date": "Jan 17, 2024",
-            "tech": "TypeScript,NextJS,NextUI",
-            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/complex-notes.png",
-            "isOpensource": true,
-            "github": "https://github.com/Abubakersiddique761/complex-notes"
-        },
-        {
-            "name": "Productivity X",
-            "desc": "One place to manage all of your works.",
-            "url": "https://productivity-x-abubakersiddique761.vercel.app/",
-            "date": "Jan 16, 2024",
-            "tech": "TypeScript,NextJS,NextUI",
-            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/productivity-x.png",
-            "isOpensource": false
-        },
-        {
-            "name": "Space Daily",
-            "desc": "Know daily one update from Space, and It's from Nasa.",
-            "url": "https://spacedaily-abubakersiddique761.vercel.app/",
-            "date": "Jan 15, 2024",
-            "tech": "TypeScript,NextJS,NextUI",
-            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/space-daily.png",
-            "isOpensource": false
-        },
-        {
-            "name": "News Aggregator",
-            "desc": "Binge News from one of the trustable sources in one place.",
-            "url": "https://news-aggregator-abubakersiddique761.vercel.app/",
-            "date": "Jan 14, 2024",
-            "tech": "TypeScript,NextJS,NextUI",
-            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/news-aggregator.png",
-            "isOpensource": false
-        },
-        {
-            "name": "AI Idea Brainstrom",
-            "desc": "Generate different types of news ideas to create your next project.",
-            "url": "https://ai-idea-brainstorm-abubakersiddique761.vercel.app/",
-            "date": "Jan 13, 2024",
-            "tech": "TypeScript,NextJS,NextUI",
-            "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/ai-idea-brainstorm.png",
-            "isOpensource": false
-        },
-        {
-            "name": "Palmy",
-            "desc": "Palmy is an VS Code theme which a combination of gorgeous colors like.",
-            "url": "https://marketplace.visualstudio.com/items?itemName=AbubakerSiddique.palmy",
-            "date": "Oct 25, 2022",
-            "tech": "VS Code Theme",
-            "img": "https://github.com/Abubakersiddique761/palmy/blob/main/SS.png",
-            "isOpensource": true,
-            "github": "https://github.com/Abubakersiddique761/palmy"
-        },
-        {
-            "name": "Transal",
-            "desc": "An Baby form of Advanced Translating Software.",
-            "date": "Oct 16, 2022",
-            "tech": "ElectronJS,HTML,CSS,JS",
-            "img": "",
-            "isOpensource": true,
-            "github": "https://github.com/Abubakersiddique761/Transal"
-        },
-        {
-            "name": "YouToX",
-            "desc": "YouTube Video Downloader with different types of formats.",
-            "date": "Jul 24, 2022",
-            "tech": "ElectronJS,HTML,CSS,JS",
-            "img": "https://github.com/Abubakersiddique761/YouToX/blob/master/imgs/1.png",
-            "isOpensource": true,
-            "github": "https://github.com/Abubakersiddique761/YouToX"
-        },
-        {
-            "name": "GenerateX",
-            "desc": "An App Designed to Generate Variety of QR Codes.",
-            "date": "Jul 24, 2022",
-            "tech": "ElectronJS,HTML,CSS,JS",
-            "img": "https://github.com/Abubakersiddique761/GenerateX/blob/master/imgs/3.png",
-            "isOpensource": true,
-            "github": "https://github.com/Abubakersiddique761/GenerateX"
-        },
-        {
-            "name": "TxtX",
-            "desc": "Edit the Text File with Minimal Design.",
-            "date": "Jul 24, 2022",
-            "tech": "ElectronJS,HTML,CSS,JS",
-            "img": "https://github.com/Abubakersiddique761/TxtX/blob/master/imgs/1.png",
-            "isOpensource": true,
-            "github": "https://github.com/Abubakersiddique761/TxtX"
-        }
-    ]
+    {
+      "app": "🛡️ Proton Mail",
+      "url": "mailto:0x1da49@proton.me"
+    },
+    {
+      "app": "🌉 GitHub",
+      "url": "https://github.com/abubakerx1da49",
+      "as": "@abubakerx1da49"
+    },
+    {
+      "app": "📸 Instagram",
+      "url": "https://www.instagram.com/abu_0x1da49/",
+      "as": "@abu_0x1da49"
+    },
+    {
+      "app": "😵 Twitter",
+      "url": "https://x.com/abu_0x1da49",
+      "as": "@abu_0x1da49"
+    }
+  ],
+  "all_projects": [
+    {
+      "name": "Hacker News",
+      "desc": "Get latest information from most trusted sources.",
+      "url": "https://hackersnews-abubakersiddique761.vercel.app/",
+      "date": "Feb 24, 2024",
+      "tech": "TypeScript,NextJS,NextUI",
+      "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/hackersnews.png",
+      "isOpensource": false
+    },
+    {
+      "name": "Habit Tracker",
+      "desc": "Track your habits or works in an minimalistic way.",
+      "url": "https://habit-tracker-abubakersiddique761.vercel.app/",
+      "date": "Jan 19, 2024",
+      "tech": "TypeScript,NextJS,NextUI",
+      "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/habit-tracker.png",
+      "isOpensource": true,
+      "github": "https://github.com/Abubakersiddique761/habit-tracker"
+    },
+    {
+      "name": "Structured Bookmarks",
+      "desc": "Manage your bookmarks in an organized way.",
+      "url": "https://structured-bookmarks-abubakersiddique761.vercel.app/",
+      "date": "Jan 18, 2024",
+      "tech": "TypeScript,NextJS,NextUI",
+      "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/structured-bookmarks.png",
+      "isOpensource": false
+    },
+    {
+      "name": "Complex Notes",
+      "desc": "Create more minimalistic and rich edited notes.",
+      "url": "https://complex-notes-abubakersiddique761.vercel.app/",
+      "date": "Jan 17, 2024",
+      "tech": "TypeScript,NextJS,NextUI",
+      "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/complex-notes.png",
+      "isOpensource": true,
+      "github": "https://github.com/Abubakersiddique761/complex-notes"
+    },
+    {
+      "name": "Productivity X",
+      "desc": "One place to manage all of your works.",
+      "url": "https://productivity-x-abubakersiddique761.vercel.app/",
+      "date": "Jan 16, 2024",
+      "tech": "TypeScript,NextJS,NextUI",
+      "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/productivity-x.png",
+      "isOpensource": false
+    },
+    {
+      "name": "Space Daily",
+      "desc": "Know daily one update from Space, and It's from Nasa.",
+      "url": "https://spacedaily-abubakersiddique761.vercel.app/",
+      "date": "Jan 15, 2024",
+      "tech": "TypeScript,NextJS,NextUI",
+      "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/space-daily.png",
+      "isOpensource": false
+    },
+    {
+      "name": "News Aggregator",
+      "desc": "Binge News from one of the trustable sources in one place.",
+      "url": "https://news-aggregator-abubakersiddique761.vercel.app/",
+      "date": "Jan 14, 2024",
+      "tech": "TypeScript,NextJS,NextUI",
+      "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/news-aggregator.png",
+      "isOpensource": false
+    },
+    {
+      "name": "AI Idea Brainstrom",
+      "desc": "Generate different types of news ideas to create your next project.",
+      "url": "https://ai-idea-brainstorm-abubakersiddique761.vercel.app/",
+      "date": "Jan 13, 2024",
+      "tech": "TypeScript,NextJS,NextUI",
+      "img": "https://github.com/Abubakersiddique761/portfolio-data/blob/main/images/ai-idea-brainstorm.png",
+      "isOpensource": false
+    },
+    {
+      "name": "Palmy",
+      "desc": "Palmy is an VS Code theme which a combination of gorgeous colors like.",
+      "url": "https://marketplace.visualstudio.com/items?itemName=AbubakerSiddique.palmy",
+      "date": "Oct 25, 2022",
+      "tech": "VS Code Theme",
+      "img": "https://github.com/Abubakersiddique761/palmy/blob/main/SS.png",
+      "isOpensource": true,
+      "github": "https://github.com/Abubakersiddique761/palmy"
+    },
+    {
+      "name": "Transal",
+      "desc": "An Baby form of Advanced Translating Software.",
+      "date": "Oct 16, 2022",
+      "tech": "ElectronJS,HTML,CSS,JS",
+      "img": "",
+      "isOpensource": true,
+      "github": "https://github.com/Abubakersiddique761/Transal"
+    },
+    {
+      "name": "YouToX",
+      "desc": "YouTube Video Downloader with different types of formats.",
+      "date": "Jul 24, 2022",
+      "tech": "ElectronJS,HTML,CSS,JS",
+      "img": "https://github.com/Abubakersiddique761/YouToX/blob/master/imgs/1.png",
+      "isOpensource": true,
+      "github": "https://github.com/Abubakersiddique761/YouToX"
+    },
+    {
+      "name": "GenerateX",
+      "desc": "An App Designed to Generate Variety of QR Codes.",
+      "date": "Jul 24, 2022",
+      "tech": "ElectronJS,HTML,CSS,JS",
+      "img": "https://github.com/Abubakersiddique761/GenerateX/blob/master/imgs/3.png",
+      "isOpensource": true,
+      "github": "https://github.com/Abubakersiddique761/GenerateX"
+    },
+    {
+      "name": "TxtX",
+      "desc": "Edit the Text File with Minimal Design.",
+      "date": "Jul 24, 2022",
+      "tech": "ElectronJS,HTML,CSS,JS",
+      "img": "https://github.com/Abubakersiddique761/TxtX/blob/master/imgs/1.png",
+      "isOpensource": true,
+      "github": "https://github.com/Abubakersiddique761/TxtX"
+    }
+  ]
 }
