@@ -1,0 +1,20 @@
+[
+  {
+    "title": "0x5a.Live",
+    "link": "https://www.0x5a.live/",
+    "description": "0x5a, your ultimate online resource directory. Explore top-rated tools, guides, and services across various industries to streamline your search and find the best solutions. Start navigating the web’s most valuable resources today with 0x5a.",
+    "fav": "https://www.0x5a.live/icon.png"
+  },
+  {
+    "title": "NodeJS",
+    "link": "https://nodejs.0x5a.live/",
+    "description": "NodeJS Online Directory",
+    "fav": "https://nodejs.0x5a.live/icon.png"
+  },
+  {
+    "title": "Cross Platform",
+    "link": "https://cross-platform.0x5a.live/",
+    "description": "Cross Platform Online Directory",
+    "fav": "https://cross-platform.0x5a.live/icon.png"
+  }
+]
