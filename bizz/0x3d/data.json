@@ -16,5 +16,11 @@
     "link": "https://cross-platform.0x3d.site/",
     "description": "Cross Platform Online Directory",
     "fav": "https://cross-platform.0x3d.site/icon.png"
+  },
+  {
+    "title": "Open Source",
+    "link": "https://open-source.0x3d.site/",
+    "description": "Open Source Online Directory",
+    "fav": "https://open-source.0x3d.site/icon.png"
   }
 ]
