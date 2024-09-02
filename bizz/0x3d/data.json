@@ -22,5 +22,11 @@
     "link": "https://open-source.0x3d.site/",
     "description": "Open Source Online Directory",
     "fav": "https://open-source.0x3d.site/icon.png"
+  },
+  {
+    "title": "Analytics",
+    "link": "https://analytics.0x3d.site/",
+    "description": "Analytics Online Directory",
+    "fav": "https://analytics.0x3d.site/icon.png"
   }
 ]
