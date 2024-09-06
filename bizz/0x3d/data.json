@@ -28,5 +28,17 @@
     "link": "https://analytics.0x3d.site/",
     "description": "Analytics Online Directory",
     "fav": "https://analytics.0x3d.site/icon.png"
+  },
+  {
+    "title": "JavaScript",
+    "link": "https://javascript.0x3d.site/",
+    "description": "JavaScript Online Directory",
+    "fav": "https://javascript.0x3d.site/icon.png"
+  },
+  {
+    "title": "GoLang",
+    "link": "https://golang.0x3d.site/",
+    "description": "GoLang Online Directory",
+    "fav": "https://golang.0x3d.site/icon.png"
   }
 ]
