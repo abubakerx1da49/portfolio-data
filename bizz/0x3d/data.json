@@ -40,5 +40,17 @@
     "link": "https://golang.0x3d.site/",
     "description": "GoLang Online Directory",
     "fav": "https://golang.0x3d.site/icon.png"
+  },
+  {
+    "title": "Python",
+    "link": "https://python.0x3d.site/",
+    "description": "Python Online Directory",
+    "fav": "https://python.0x3d.site/icon.png"
+  },
+  {
+    "title": "Swift",
+    "link": "https://swift.0x3d.site/",
+    "description": "Swift Online Directory",
+    "fav": "https://swift.0x3d.site/icon.png"
   }
 ]
