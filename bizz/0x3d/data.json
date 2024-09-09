@@ -52,5 +52,17 @@
     "link": "https://swift.0x3d.site/",
     "description": "Swift Online Directory",
     "fav": "https://swift.0x3d.site/icon.png"
+  },
+  {
+    "title": "Rust",
+    "link": "https://rust.0x3d.site/",
+    "description": "Rust Online Directory",
+    "fav": "https://rust.0x3d.site/icon.png"
+  },
+  {
+    "title": "Scala",
+    "link": "https://scala.0x3d.site/",
+    "description": "Scala Online Directory",
+    "fav": "https://scala.0x3d.site/icon.png"
   }
 ]
