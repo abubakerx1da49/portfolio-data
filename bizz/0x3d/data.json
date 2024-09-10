@@ -64,5 +64,17 @@
     "link": "https://scala.0x3d.site/",
     "description": "Scala Online Directory",
     "fav": "https://scala.0x3d.site/icon.png"
+  },
+  {
+    "title": "Ruby",
+    "link": "https://ruby.0x3d.site/",
+    "description": "Ruby Online Directory",
+    "fav": "https://ruby.0x3d.site/icon.png"
+  },
+  {
+    "title": "Clojure",
+    "link": "https://clojure.0x3d.site/",
+    "description": "Clojure Online Directory",
+    "fav": "https://clojure.0x3d.site/icon.png"
   }
 ]
