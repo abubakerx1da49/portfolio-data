@@ -76,5 +76,17 @@
     "link": "https://clojure.0x3d.site/",
     "description": "Clojure Online Directory",
     "fav": "https://clojure.0x3d.site/icon.png"
+  },
+  {
+    "title": "Elixir",
+    "link": "https://elixir.0x3d.site/",
+    "description": "Elixir Online Directory",
+    "fav": "https://elixir.0x3d.site/icon.png"
+  },
+  {
+    "title": "Elm",
+    "link": "https://elm.0x3d.site/",
+    "description": "Elm Online Directory",
+    "fav": "https://elm.0x3d.site/icon.png"
   }
 ]
