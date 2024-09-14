@@ -94,5 +94,11 @@
     "link": "https://lua.0x3d.site/",
     "description": "Lua Online Directory",
     "fav": "https://lua.0x3d.site/icon.png"
+  },
+  {
+    "title": "C Programming",
+    "link": "https://c-programming.0x3d.site/",
+    "description": "C Programming Online Directory",
+    "fav": "https://c-programming.0x3d.site/icon.png"
   }
 ]
