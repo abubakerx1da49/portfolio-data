@@ -88,5 +88,11 @@
     "link": "https://elm.0x3d.site/",
     "description": "Elm Online Directory",
     "fav": "https://elm.0x3d.site/icon.png"
+  },
+  {
+    "title": "Lua",
+    "link": "https://lua.0x3d.site/",
+    "description": "Lua Online Directory",
+    "fav": "https://lua.0x3d.site/icon.png"
   }
 ]
