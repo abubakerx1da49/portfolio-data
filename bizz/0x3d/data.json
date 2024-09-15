@@ -100,5 +100,41 @@
     "link": "https://c-programming.0x3d.site/",
     "description": "C Programming Online Directory",
     "fav": "https://c-programming.0x3d.site/icon.png"
+  },
+  {
+    "title": "C++ Programming",
+    "link": "https://cpp-programming.0x3d.site/",
+    "description": "C++ Programming Online Directory",
+    "fav": "https://cpp-programming.0x3d.site/icon.png"
+  },
+  {
+    "title": "R Programming",
+    "link": "https://r-programming.0x3d.site/",
+    "description": "R Programming Online Directory",
+    "fav": "https://r-programming.0x3d.site/icon.png"
+  },
+  {
+    "title": "Perl",
+    "link": "https://perl.0x3d.site/",
+    "description": "Perl Online Directory",
+    "fav": "https://perl.0x3d.site/icon.png"
+  },
+  {
+    "title": "Java",
+    "link": "https://java.0x3d.site/",
+    "description": "Java Online Directory",
+    "fav": "https://java.0x3d.site/icon.png"
+  },
+  {
+    "title": "Kotlin",
+    "link": "https://kotlin.0x3d.site/",
+    "description": "Kotlib Online Directory",
+    "fav": "https://kotlin.0x3d.site/icon.png"
+  },
+  {
+    "title": "PHP",
+    "link": "https://php.0x3d.site/",
+    "description": "PHP Online Directory",
+    "fav": "https://php.0x3d.site/icon.png"
   }
 ]
