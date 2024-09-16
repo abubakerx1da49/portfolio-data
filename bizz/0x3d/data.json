@@ -128,7 +128,7 @@
   {
     "title": "Kotlin",
     "link": "https://kotlin.0x3d.site/",
-    "description": "Kotlib Online Directory",
+    "description": "Kotlin Online Directory",
     "fav": "https://kotlin.0x3d.site/icon.png"
   },
   {
@@ -136,5 +136,17 @@
     "link": "https://php.0x3d.site/",
     "description": "PHP Online Directory",
     "fav": "https://php.0x3d.site/icon.png"
+  },
+  {
+    "title": "React JS",
+    "link": "https://react.0x3d.site/",
+    "description": "React JS Online Directory",
+    "fav": "https://react.0x3d.site/icon.png"
+  },
+  {
+    "title": "Angular",
+    "link": "https://angular.0x3d.site/",
+    "description": "Angular JS Online Directory",
+    "fav": "https://angular.0x3d.site/icon.png"
   }
 ]
