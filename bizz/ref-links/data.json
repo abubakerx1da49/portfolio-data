@@ -1,14 +1,14 @@
 [
   {
     "Name": "ElevenLabs",
-    "Link": "https://try.elevenlabs.io/eqa5z6wyfurp"
-    "Logo": "https://elevenlabs.io/favicon.ico"
+    "Link": "https://try.elevenlabs.io/eqa5z6wyfurp",
+    "Logo": "https://elevenlabs.io/favicon.ico",
     "CTA": "Want realistic voiceovers? Check out ElevenLabs!"
   },
   {
     "Name": "Moosend",
-    "Link": "https://trymoo.moosend.com/a0x78vpujh21"
-    "Logo": "https://moosend.com/wp-content/uploads/2019/08/favicon.png"
+    "Link": "https://trymoo.moosend.com/a0x78vpujh21",
+    "Logo": "https://moosend.com/wp-content/uploads/2019/08/favicon.png",
     "CTA": "Send smarter emails with Moosend!"
   }
 ]
